@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/ccliu2/ccliu2.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to 1,000 Cats
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About me:
+I am a NLP/ML researcher, and a mechanical engineer turned electrical engineer turned computer scientist (I know, a long way to get here). 
+I obtained both of my undergraduate and master's degrees at the University of Toronto, and my master's research was focused on deep learning and computer vision.
+ 
+I have been working in the industry for many years, such as at Canadian start-ups like Meta and Wattpad, primarily focus on 
+NLP ([CV](cv.pdf)). Hence, that's how I got into NLP.  I am lucky to had the opportunity going back 
+to school, I will be joining [TU Darmstadt](https://www.informatik.tu-darmstadt.de/fb20/index.en.jsp) as a Ph.D. student in fall 2021. 
 
-### Markdown
+Currently, my research interests include:
+multi-modal, multi-lingual, grounding, continual learning, meta-learning / RL with NLP.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ccliu2/ccliu2.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
