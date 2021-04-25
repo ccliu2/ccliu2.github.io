@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## Welcome to 1,000 Cats
-
 ## About me:
 I am a NLP/ML researcher, and a mechanical engineer turned electrical engineer turned computer scientist (I know, a long way to get here). 
 I obtained both of my undergraduate and master's degrees at the University of Toronto, and my master's research was focused on deep learning and computer vision.
