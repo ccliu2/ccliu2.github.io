@@ -37,14 +37,14 @@
         <a href="{{ site.url }}/posts" class="btn2">Posts</a>
         <a href="{{ site.url }}/cats" class="btn2">Cats</a>
       <footer>
-          {% if site.social-scholar %}
-          <a href="https://scholar.google.ca/{{ site.social-scholar }}" target="_blank"><i class="fa fa-scholar fa-2x" aria-hidden="true"></i></a>
+          {% if site.social-twitter %}
+          <a href="https://twitter.com/{{ site.social-twitter }}" target="_blank" ><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>
           {% endif %}
           {% if site.social-github %}
           <a href="https://github.com/{{ site.social-github }}" target="_blank"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
           {% endif %}
-          {% if site.social-twitter %}
-          <a href="https://twitter.com/{{ site.social-twitter }}" target="_blank" ><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>
+          {% if site.social-scholar %}
+          <a href="https://scholar.google.ca/{{ site.social-scholar }}" target="_blank"><i class="fa fa-scholar fa-2x" aria-hidden="true"></i></a>
           {% endif %}
            <div class="copyright">
       <p>{{site.time | date: '%Y'}} &copy; {{site.author}}</p>
@@ -56,7 +56,9 @@
   <body>
     <main id="content" class="main-content2" role="main">
       {{ content }}
+        <img src="/assets/img/image_cat1.jpg" class="inline" style="width:378px;height:504px;" />
     </main>
   </body>
 </div>
 </html>
+3024 × 4032

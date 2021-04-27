@@ -2,3 +2,9 @@ theme: jekyll-theme-cayman
 title: 1,000 cats
 descriptions: Random thoughts
 show_tabs: "true"
+author: Chen Liu
+author-img: avatar.png
+about-author: This is a test
+social-twitter: ChenLiu47008770
+social-github: ccliu2
+social-scholar: citations?user=eNFB3fgAAAAJ&hl=en&oi=ao

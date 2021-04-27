@@ -1,5 +1,7 @@
 ---
-layout: subpage
-title: Cats Photo
+layout: photo
+title: Cats
 permalink: /cats/
 ---
+
+## This is Marmalade

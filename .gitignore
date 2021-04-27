@@ -1,2 +1,6 @@
 .idea/
-.idea/*
+_site/
+.*-cache/
+.ruby-version
+Gemfile
+Gemfile.lock
