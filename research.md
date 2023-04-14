@@ -11,11 +11,11 @@ comments: false
 ## Selected Publications
 
 P7. [Improving Generalization of Adapter-Based Cross-lingual Transfer with Scheduled Unfreezing](https://arxiv.org/abs/2301.05487)<br/> 
-**CC Liu**, J Pfeiffer, I Vulic, I Gurevych<br/>
+**CC Liu**, J Pfeiffer, I Vulić, I Gurevych<br/>
 under review, 2023.
 
-P6. [Delving Deeper into Cross-lingual Visual Question Answering](http://www.ifip2015.mii.vu.lt/file/repository/IFIP_Proceedings.pdf)<br/> 
-**CC Liu**, J Pfeiffer, A Korhonen, I Vulic, I Gurevych<br/>
+P6. [Delving Deeper into Cross-lingual Visual Question Answering](https://arxiv.org/abs/2202.07630)<br/> 
+**CC Liu**, J Pfeiffer, A Korhonen, I Vulić, I Gurevych<br/>
 Published in <i>Findings of EACL</i>, 2023.
 
 P5. [One does not fit all! On the Complementarity of Vision Encoders for Vision and Language Tasks](https://arxiv.org/abs/2210.06379)<br/> 
@@ -23,7 +23,7 @@ G Geigle, **CC Liu**, J Pfeiffer, I Gurevych<br/>
 under review, 2022. 
 
 P4. [FigMemes: A Dataset for Figurative Language Identification in Politically-Opinionated Memes](https://aclanthology.org/2022.emnlp-main.476/)<br/> 
-**CC Liu***, G Geigle*, R Krebs, I Gurevych<br/>
+**C Liu***, G Geigle*, R Krebs, I Gurevych<br/>
 Published in <i>Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing</i>, 2022. 
 
 P3. [An Architecture for Accelerated Large-Scale Inference of Transformer-Based Language Models](https://aclanthology.org/2021.naacl-industry.21.pdf)<br/> 

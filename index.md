@@ -16,7 +16,7 @@ I worked at Canadian start-ups like Meta (acquired by CZI), Wattpad (acquired by
 
 I have research interests in both NLP and ML. 
 I am interested in efficient methods that help with multi-lingual transfers and the utilization of multi-modal information [P5, P6, P7]. 
-I also study and create datasets for flexible language use such as figurative language [P4]. 
+I also study and create datasets for figurative expressions [P4]. 
 Last but not least, I use the perspective of distribution shifts/OOD generalization [P6, P7] to tackle problems in multi-lingual transfers and the utilization of multi-modal information. 
 
 You can contact me if you’re interested in collaborating or just chat about research, start-ups, anything. 
