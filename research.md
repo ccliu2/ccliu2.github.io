@@ -6,33 +6,31 @@ modified: 2016-04-09T20:17:00.523882-04:00
 comments: false
 ---
 
-**Interests:** Machine Learning, Natural Language Processing (NLP)
-
 ## Selected Publications
 
 P7. [Improving Generalization of Adapter-Based Cross-lingual Transfer with Scheduled Unfreezing](https://arxiv.org/abs/2301.05487)<br/> 
 **CC Liu**, J Pfeiffer, I Vulić, I Gurevych<br/>
-under review, 2023.
+Under review, 2023.
 
 P6. [Delving Deeper into Cross-lingual Visual Question Answering](https://arxiv.org/abs/2202.07630)<br/> 
 **CC Liu**, J Pfeiffer, A Korhonen, I Vulić, I Gurevych<br/>
-Published in <i>Findings of EACL</i>, 2023.
+Published in <i>Conference of the European Chapter of the Association for Computational Linguistics (EACL), Findings</i>, 2023.
 
-P5. [One does not fit all! On the Complementarity of Vision Encoders for Vision and Language Tasks](https://arxiv.org/abs/2210.06379)<br/> 
-G Geigle, **CC Liu**, J Pfeiffer, I Gurevych<br/>
-under review, 2022. 
-
-P4. [FigMemes: A Dataset for Figurative Language Identification in Politically-Opinionated Memes](https://aclanthology.org/2022.emnlp-main.476/)<br/> 
+P5. [FigMemes: A Dataset for Figurative Language Identification in Politically-Opinionated Memes](https://aclanthology.org/2022.emnlp-main.476/)<br/> 
 **C Liu***, G Geigle*, R Krebs, I Gurevych<br/>
-Published in <i>Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing</i>, 2022. 
+Published in <i>Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>, 2022. 
+
+P4. [One does not fit all! On the Complementarity of Vision Encoders for Vision and Language Tasks](https://arxiv.org/abs/2210.06379)<br/> 
+G Geigle, **CC Liu**, J Pfeiffer, I Gurevych<br/>
+Under review, 2022.
 
 P3. [An Architecture for Accelerated Large-Scale Inference of Transformer-Based Language Models](https://aclanthology.org/2021.naacl-industry.21.pdf)<br/> 
 A Ganiev, C Chapin, A De Andrade, **C Liu**<br/>
-Published in <i>Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Papers</i>, 2021. 
+Published in <i>Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), Industry Papers</i>, 2021. 
 
 P2. [DENS: A dataset for multi-class emotion analysis](https://aclanthology.org/D19-1656.pdf)<br/> 
 **C Liu**, M Osama, A De Andrade<br/>
-Published in <i>Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing</i>, 2019. 
+Published in <i>Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>, 2019. 
 
 P1. [Probabilistic Siamese Networks for Learning Representations](https://central.bac-lac.gc.ca/.item?id=TC-OTU-43097&op=pdf&app=Library&oclc_number=1033135324)<br/> 
 **C Liu**<br/>
