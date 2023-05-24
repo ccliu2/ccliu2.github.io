@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+gem "github-pages", "=228"
 gem "kramdown", ">= 2.3.0"
 gem "jekyll", "~> 3.0"
 gem "jekyll-sitemap"
