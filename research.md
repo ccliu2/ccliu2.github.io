@@ -33,7 +33,7 @@ Keywords:
 
 P8. [Are Multilingual LLMs Culturally-Diverse Reasoners? An Investigation into Multicultural Proverbs and Sayings](https://arxiv.org/abs/2309.08591)<br/>
 **CC Liu**, F Koto, T Baldwin, I Gurevych<br/>
-To appear <i>Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)</i>, 2024.<br/>
+In <i>Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)</i>, 2024.<br/>
 Keywords:
 ![Static Badge](https://img.shields.io/badge/Culture-coral)
 ![Static Badge](https://img.shields.io/badge/Pragmatics-slateblue)
@@ -41,7 +41,7 @@ Keywords:
 
 P7. [Improving Generalization of Adapter-Based Cross-lingual Transfer with Scheduled Unfreezing](https://arxiv.org/abs/2301.05487)<br/> 
 **CC Liu**, J Pfeiffer, I Vulić, I Gurevych<br/>
-To appear <i>Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)</i>, 2024.<br/>
+In <i>Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)</i>, 2024.<br/>
 Keywords:
 ![Static Badge](https://img.shields.io/badge/Generalization-cornflowerblue) 
 ![Static Badge](https://img.shields.io/badge/Cross--lingual_Transfer-crimson)
@@ -49,7 +49,7 @@ Keywords:
 
 P6. [Delving Deeper into Cross-lingual Visual Question Answering](https://arxiv.org/abs/2202.07630)<br/> 
 **CC Liu**, J Pfeiffer, A Korhonen, I Vulić, I Gurevych<br/>
-Published in <i>Conference of the European Chapter of the Association for Computational Linguistics (EACL), Findings</i>, 2023.<br/>
+In <i>Findings of the Association for Computational Linguistics: EACL</i>, 2023.<br/>
 Keywords:
 ![Static Badge](https://img.shields.io/badge/Cross--lingual_Transfer-crimson)
 ![Static Badge](https://img.shields.io/badge/Multimodal-lightseagreen)
@@ -57,14 +57,14 @@ Keywords:
 
 P5. [One does not fit all! On the Complementarity of Vision Encoders for Vision and Language Tasks](https://arxiv.org/abs/2210.06379)<br/> 
 G Geigle, **CC Liu**, J Pfeiffer, I Gurevych<br/>
-Published in the <i>8th Workshop on Representation Learning for NLP (RepL4NLP@ACL)</i>, 2023.<br/>
+In <i>Proceedings of the 8th Workshop on Representation Learning for NLP (RepL4NLP)</i>, 2023.<br/>
 Keywords:
 ![Static Badge](https://img.shields.io/badge/Multimodal-lightseagreen)
 ![Static Badge](https://img.shields.io/badge/Representations-slategray)
 
 P4. [FigMemes: A Dataset for Figurative Language Identification in Politically-Opinionated Memes](https://aclanthology.org/2022.emnlp-main.476/)<br/> 
 **CC Liu** *, G Geigle *, R Krebs, I Gurevych<br/>
-Published in <i>Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>, 2022.<br/>
+In <i>Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>, 2022.<br/>
 Keywords:
 ![Static Badge](https://img.shields.io/badge/Multimodal-lightseagreen)
 ![Static Badge](https://img.shields.io/badge/Generalization-cornflowerblue)
@@ -72,13 +72,13 @@ Keywords:
 
 P3. [An Architecture for Accelerated Large-Scale Inference of Transformer-Based Language Models](https://aclanthology.org/2021.naacl-industry.21.pdf)<br/> 
 A Ganiev, C Chapin, A De Andrade, **C Liu**<br/>
-Published in <i>Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), Industry Track</i>, 2021.<br/>
+In <i>Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), Industry Track</i>, 2021.<br/>
 Keywords: 
 ![Static Badge](https://img.shields.io/badge/Dev-slategray)
 
 P2. [DENS: A dataset for multi-class emotion analysis](https://aclanthology.org/D19-1656.pdf)<br/> 
 **C Liu**, M Osama, A De Andrade<br/>
-Published in <i>Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>, 2019.<br/>
+In <i>Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>, 2019.<br/>
 Keywords: 
 ![Static Badge](https://img.shields.io/badge/Emotion-slateblue)
 
