@@ -19,6 +19,7 @@ Reach out if you’re interested in collaborating or chat about research📜, st
 
 #### Recent News:
 
+* Jun 2024: A workshop version of our paper on early period of training and OOD generalization is accepted at HiDi@ICML.
 * Jun 2024: New preprint available on culturally aware NLP.
 * Mar 2024: New preprint available on early period of training and OOD generalization.
 * Mar 2024: 2 papers accepted at NAACL-HLT 2024.
