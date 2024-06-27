@@ -1,4 +1,5 @@
 # Site wide configuration
+minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 title: Chen Cecilia Liu
 locale: en_US
@@ -47,14 +48,14 @@ owner:
   name: Chen Cecilia Liu
   avatar: profile.jpg
   bio: "ELLIS PhD student at the Technische Universität Darmstadt and the University of Cambridge"
-  email: chen.liu@tu-darmstadt.de
-  twitter: ChenLiu47008770
+  email: ceciliachenDOT liu [AT] gmail
+  twitter: # ChenLiu47008770
   google_scholar: eNFB3fgAAAAJ
   google:
   bing-verify:
   github:
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: # grant-mcdermott-b8637419
+  linkedin: chen-cecilia-liu-28432b2b
   xing: #username
   instagram: #username
   lastfm: #username
