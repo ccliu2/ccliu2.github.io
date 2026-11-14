@@ -1,7 +1,10 @@
 # Chen Cecilia Liu's personal website
 
-This webpage is based on [Grant McDermot website](https://github.com/grantmcdermott/grantmcdermott.github.io), which, in turn, is based on Minimal Mistakes theme.
+A minimal [Jekyll](https://jekyllrb.com) site hosted on GitHub Pages.
 
-The idea to use this template was borrowed from [budzianowski.github.io](budzianowski.github.op).  
+- `index.md`, `research.md`: page content
+- `_layouts/`: `default` (shell) and `page` (titled page)
+- `_data/navigation.yml`: top navigation
+- `assets/css/main.css`: all styles
 
-The website was built using GitHub pages, Jekyll and the very cool *Minimal Mistakes* theme (with minor tweaks) from [Michael Rose](http://twitter.com/mmistakes). Take a look at the [Minimal Mistakes website](http://mmistakes.github.io/minimal-mistakes) for detailed instructions about creating your own website using this theme.
+Preview locally with `bundle exec jekyll serve`.

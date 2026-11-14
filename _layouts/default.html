@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title and page.url != '/' %}{{ page.title }} – {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="stylesheet" href="/assets/css/main.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <a class="site-name" href="/">{{ site.title }}</a>
+      <nav>
+        {% for link in site.data.navigation %}
+        <a href="{{ link.url }}">{{ link.title }}</a>
+        {% endfor %}
+      </nav>
+    </header>
+    <main>
+      {{ content }}
+    </main>
+    <footer>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}</footer>
+  </div>
+</body>
+</html>

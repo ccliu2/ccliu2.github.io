@@ -1,0 +1,145 @@
+# Newest first. `pdf` and `keywords` are optional. Use <b> to highlight the author.
+- year: 2026
+  title: Cultural Adaptation within Repeated Social Interactions
+  authors: <b>CC Liu</b>, R Reichart, A Korhonen
+  venue: arXiv preprint
+  pdf: https://arxiv.org/pdf/2611.08334
+  keywords: [Cultural Learning, Intent and Interaction, Values and Norms]
+
+- year: 2026
+  title: "CulturalRiddles: A Multicultural Benchmark of Riddles"
+  authors: MC Nguyen, T Hu, V Anbalagan, H Gagnier, P Sadeghi, F Abdou, et al.
+  venue: arXiv preprint
+  pdf: https://arxiv.org/pdf/2610.29968
+  keywords: [Multilingual, Dataset]
+
+- year: 2026
+  title: Unintended Side Effects of Value Training in LLMs
+  authors: S Pawar, <b>CC Liu</b>, A Korhonen, I Augenstein
+  venue: arXiv preprint
+  pdf: https://arxiv.org/pdf/2610.29922
+  keywords: [Values and Norms, Training]
+
+- year: 2026
+  title: LLMs Can Better Capture Human Judgments-With the Right Prompts
+  authors: D Dillion, <b>CC Liu</b>, B Wang, D Barolo, T Rajore, N Tandon, P Ravikumar, et al.
+  venue: Frontiers in Social Psychology (in-press)
+  keywords: [Distributional Alignment, Values and Norms]
+
+- year: 2026
+  title: "Tailored Emotional LLM-Supporter: Enhancing Cultural Sensitivity"
+  authors: <b>CC Liu</b>*, H Arnaout*, N Kovačić, D Atzil-Slonim, I Gurevych
+  venue: EACL
+  keywords: [Culture, Emotion]
+
+- year: 2026
+  title: "LLMs as Cultural Archives: Cultural Commonsense Knowledge Graph Extraction"
+  authors: JC Tonga, <b>CC Liu</b>, I Gurevych, F Koto
+  venue: EACL
+  keywords: [Culture]
+
+- year: 2026
+  title: "Global PIQA: Evaluating Physical Commonsense Reasoning Across 100+ Languages and Cultures"
+  authors: TA Chang, C Arnett, A Eldesokey, A Sadallah, A Kashar, A Daud, et al.
+  venue: NeurIPS Datasets and Benchmarks (to appear)
+  keywords: [Multilingual, Dataset]
+
+- year: 2025
+  title: "From Surveys to Narratives: Rethinking Cultural Value Adaptation in LLMs"
+  authors: F Adilazuarda, <b>CC Liu</b>, I Gurevych, AF Aji
+  venue: EMNLP
+  keywords: [Values and Norms, Training]
+
+- year: 2025
+  title: Cultural Learning-Based Culture Adaptation of Language Models
+  authors: <b>CC Liu</b>, A Korhonen, I Gurevych
+  venue: ACL
+  pdf: https://aclanthology.org/2025.acl-long.156.pdf
+  keywords: [Cultural Learning, Intent and Interaction, Values and Norms]
+
+- year: 2025
+  title: "Culturally Aware and Adapted NLP: A Taxonomy and a Survey of the State of the Art"
+  authors: <b>CC Liu</b>, I Gurevych, A Korhonen
+  venue: TACL
+  pdf: https://aclanthology.org/2025.tacl-1.31.pdf
+  keywords: [Culture]
+
+- year: 2025
+  title: "Behind Maya: Building a Multilingual Vision Language Model"
+  authors: N Alam, KR Kanjula, S Guthikonda, T Chung, BKS Vegesna, A Das, et al.
+  venue: VLMs4ALL Workshop at CVPR
+  keywords: [Multimodal]
+
+- year: 2025
+  title: Cooperative Behaviour in LLMs via Cultural Evolution of Norms and Strategies
+  authors: <b>CC Liu</b>
+  venue: SocialSim Workshop at COLM
+  keywords: [Cultural Evolution, Multi-Agent, Intent and Interaction]
+
+- year: 2024
+  title: "Are Multilingual LLMs Culturally-Diverse Reasoners? An Investigation into Multicultural Proverbs and Sayings"
+  authors: <b>CC Liu</b>, F Koto, T Baldwin, I Gurevych
+  venue: NAACL
+  pdf: https://aclanthology.org/2024.naacl-long.112.pdf
+  keywords: [Pragmatics, Generalization]
+
+- year: 2024
+  title: Early Period of Training Impacts Out-of-Distribution Generalization
+  authors: <b>CC Liu</b>, I Gurevych
+  venue: HiLD Workshop at ICML
+  pdf: https://arxiv.org/pdf/2403.15210
+  keywords: [Generalization, Training Dynamics, Cross-lingual Transfer]
+
+- year: 2024
+  title: "FUN with Fisher: Improving Generalization of Adapter-Based Cross-lingual Transfer with Scheduled Unfreezing"
+  authors: <b>CC Liu</b>, J Pfeiffer, I Vulić, I Gurevych
+  venue: NAACL
+  pdf: https://aclanthology.org/2024.naacl-long.111.pdf
+  keywords: [Generalization, Cross-lingual Transfer, Training Dynamics]
+
+- year: 2023
+  title: Delving Deeper into Cross-lingual Visual Question Answering
+  authors: <b>CC Liu</b>, J Pfeiffer, A Korhonen, I Vulić, I Gurevych
+  venue: Findings of EACL
+  pdf: https://aclanthology.org/2023.findings-eacl.186.pdf
+  keywords: [Cross-lingual Transfer, Multimodal, Generalization]
+
+- year: 2023
+  title: One Does Not Fit All! On the Complementarity of Vision Encoders for Vision and Language Tasks
+  authors: G Geigle, <b>CC Liu</b>, J Pfeiffer, I Gurevych
+  venue: RepL4NLP Workshop at ACL
+  pdf: https://aclanthology.org/2023.repl4nlp-1.9.pdf
+  keywords: [Multimodal, Representations]
+
+- year: 2022
+  title: "FigMemes: A Dataset for Figurative Language Identification in Politically-Opinionated Memes"
+  authors: <b>CC Liu</b>*, G Geigle*, R Krebs, I Gurevych
+  venue: EMNLP
+  pdf: https://aclanthology.org/2022.emnlp-main.476.pdf
+  keywords: [Multimodal, Generalization, Figurative/Pragmatics]
+
+- year: 2021
+  title: An Architecture for Accelerated Large-Scale Inference of Transformer-Based Language Models
+  authors: A Ganiev, C Chapin, A De Andrade, <b>C Liu</b>
+  venue: NAACL, Industry Track
+  pdf: https://aclanthology.org/2021.naacl-industry.21.pdf
+  keywords: [Dev]
+
+- year: 2020
+  title: Graph Representation Learning Network via Adaptive Sampling
+  authors: A de Andrade, <b>C Liu</b>
+  venue: arXiv preprint
+  keywords: [Representations]
+
+- year: 2019
+  title: "DENS: A Dataset for Multi-Class Emotion Analysis"
+  authors: <b>C Liu</b>, M Osama, A De Andrade
+  venue: EMNLP
+  pdf: https://aclanthology.org/D19-1656.pdf
+  keywords: [Emotion]
+
+- year: 2019
+  title: Exploring Multilingual Syntactic Sentence Representations
+  authors: <b>C Liu</b>, A De Andrade, M Osama
+  venue: W-NUT Workshop at EMNLP
+  keywords: [Representations, Cross-lingual Transfer]
